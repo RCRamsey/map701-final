@@ -79,6 +79,9 @@
       // create object of map to display and critique as new leaflet tile layer
       // this object works just like L.tileLayer, but it takes a url string with the IIIF image endpoint as its first paramater
       // *to make an image usable for iiif have to add info.json to end of the url string being used
+      // folows this syntax for request: {scheme}://{server}{/prefix}/{identifier}/info.json
+      // example: https://example.org/image-service/abcd1234/info.json
+
       const chamizalLayer = new L.tileLayer.iiif(
         "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:fn107c45p/info.json"
       ).addTo(map);
@@ -94,7 +97,8 @@
       document
         .getElementById("zoom-to-legend")
         .addEventListener("click", () => {
-            // topleft pixel of image [0,0] [x-min; y-min]; bottom right pixel is [x-max, y-max]
+            // topleft pixel of image [0,0] [x-min; y-min]
+            //bottom right pixel is [x-max, y-max]
             map.flyToBounds([
             [-584, 12],
             [-284, 312],
