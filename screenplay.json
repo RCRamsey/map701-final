@@ -19,13 +19,27 @@
       {
         "source": "1",
         "extent": [
-            5000,
-            -9500,
-            9500,
-            1500
+          700,
+          -10000,
+          15000,
+          -10
         ],
         "caption": {
-          "title": "zoom to howdy realtors",
+          "title": "1 Exploring",
+          "text": "Click the right or left arrow to explore the NAREB map and see where it takes you.",
+          "moreInfo": "https://en.wikipedia.org/wiki/Cars_in_the_1920s"
+        }
+      },
+      {
+        "source": "1",
+        "extent": [
+          7600,
+          -12000,
+          7650,
+          -8000
+        ],
+        "caption": {
+          "title": "2 HOWDY!",
           "text": "We're venturing back to the roaring 1920s. A time when Americans were ready to spend high dollar on creature comforts (home, vehicle, travel). After WWI each person coveted a leisurely experience of indulgence encouraged by Hollywood. Car production increased supported by booms in oil and urban development encouraging travel. To have a home, a car and to travel was at the heart of being middle-working class.",
           "moreInfo": "https://en.wikipedia.org/wiki/Cars_in_the_1920s"
         }
@@ -33,133 +47,124 @@
       {
         "source": "1",
         "extent": [
-          9000,
-          -9500,
-          4700,
-          -4700
+          2000,
+          -3000,
+          13500,
+          -50
         ],
         "caption": {
-          "title": "zoom to title head",
-          "text": "In 1908 the National Association of Real Estate Exchanges was founded and in 1913 the Code of Ethics adopted. NAREE later changed its name to National Association of Real Estate Boards (NAREB) 1916. Up until 1913 there were no rules on who could sell a home or regulations to comply with so realtors weren't all together trusted/respected until their organization became official.",
+          "text": "3 In 1908 the National Association of Real Estate Exchanges was founded and in 1913 the Code of Ethics adopted. NAREE later changed its name to National Association of Real Estate Boards (NAREB) 1916. Up until 1913 there were no rules on who could sell a home or regulations to comply with so realtors weren't all together trusted/respected until their organization became official.",
           "morInfo": "https://www.nar.realtor/about-nar/history"
         }
       },
       {
         "source": "1",
         "extent": [
-          5434,
-          -4641,
-          7566,
-          -3015
+          700,
+          -10000,
+          15000,
+          -10
         ],
         "caption": {
-          "title": "zoom to full",
-          "text": "Nothing screams Official more than national group gatherings. In typical advertisement fashion a piece of work was commissioned to commemorate the activity. In this instance a map. One we shall explore for deeper interpretation."
+          "text": "4 Nothing screams Official more than national group gatherings. In typical advertisement fashion a piece of work was commissioned to commemorate the activity. In this instance a map. One we shall explore for deeper interpretation."
         }
       },
       {
         "source": "1",
         "extent": [
-          5434,
-          -4641,
-          7566,
-          -3015
+          6500,
+          -6500,
+          12500,
+          -3500
         ],
         "caption": {
-          "title": "zoom to MO and KY",
-          "text": "Is this map truly a map? It gives the maplike appearance utilizing general geographic locations, natural occuring artifacts like state boundaries and assorted features (rivers, landmarks, points of interest) that are easily recognizable."
+          "text": "5 Is this map truly a map? It gives the maplike appearance utilizing general geographic locations, natural occuring artifacts like state boundaries and assorted features (rivers, landmarks, points of interest) that are easily recognizable."
         }
       },
       {
         "source": "1",
         "extent": [
-          5434,
-          -4641,
-          7566,
-          -3015
+          9000,
+          -3000,
+          11000,
+          -1000
         ],
         "caption": {
-          "title": "zoom to authors name & wisconsin",
-          "text": "Its experimentally induced Roads bordering states (not precisely geolocated or scaled) and bright colored comic like illustrations, leaves its sense of objectivity and separation from its author unsealed. It appears as though more a piece of art than a map and therefore qualifes it as too subjective to be a map, according to Wood (1993). It could be further argued as art as Ignatz Sahula (map author) was a trained painter not a cartographer.",
+          "text": "6 Its experimentally induced Roads bordering states (not precisely geolocated or scaled) and bright colored comic like illustrations, leaves its sense of objectivity and separation from its author unsealed. It appears as though more a piece of art than a map and therefore qualifes it as too subjective to be a map, according to Wood (1993). It could be further argued as art as Ignatz Sahula (map author) was a trained painter not a cartographer.",
           "moreInfo": "https://westernartandarchitecture.com/features/ignatz-sahula-dycke-1900-1982"
         }
       },
       {
         "source": "1",
         "extent": [
-          5434,
-          -4641,
-          7566,
-          -3015
+          1800,
+          -5000,
+          2200,
+          -2800
         ],
         "caption": {
-          "title": "zoom to member board list and WA OR",
-          "text": "Who is this for? Since this is a map about the NAREB convention in Tulsa, and it lists the names of State Realtor Board Members and contains jokes that could be considered inside jokes, it's safe to say it wasn't meant for the general population. Thus all discourse was geared to the NAREB members."
+          "text": "7 Who is this for? Since this is a map about the NAREB convention in Tulsa, and it lists the names of State Boards and State Realtor Board Members and contains jokes that could be considered inside jokes, it's safe to say it wasn't meant for the general population. Thus all discourse was geared to the NAREB members."
         }
       },
       {
         "source": "1",
         "extent": [
-          5434,
-          -4641,
-          7566,
-          -3015
+          700,
+          -10000,
+          15000,
+          -10
         ],
         "caption": {
-          "title": "zoom out to full",
-          "text": "With the audience named, we can consider the discourse between author and audience to help decipher map vs art. Were the audience fully aware of the jokes its safe to say this could be a map in their eyes. As not as much would be lost in translation. The NAREB audience would likely lean in to giving authority to the map as a general reference system to their own world, despite inaccuracies they may not be familiar with in other territories. Therefore they give power to the cartoon (mis?)representations and the map gains concept independence by replacing their previous mind map with this new representation through an internal validation. So a general audience may deem this art, whilst the intended audience considers it a map."
+          "text": "8 With the audience named, we can consider the discourse between author and audience to help decipher map vs art. Were the audience fully aware of the jokes its safe to say this could be a map in their eyes. As not as much would be lost in translation. The NAREB audience would likely lean in to giving authority to the map as a general reference system to their own world, despite inaccuracies they may not be familiar with in other territories. Therefore they give power to the cartoon (mis?)representations and the map gains concept independence by replacing their previous mind map with this new representation through an internal validation. So a general audience may deem this art, whilst the intended audience considers it a map."
         }
       },
       {
         "source": "1",
         "extent": [
-          5434,
-          -4641,
-          7566,
-          -3015
+          5000,
+          -7200,
+          9000,
+          -5700
         ],
         "caption": {
-          "title": "End goal?",
-          "text": "If the map is not intended for a drive through the countryside or locating a particular city what is it's use? At this time in history Oklahoma was wanting to be placed on a map. To be KNOWN! All around them other cities and states had longer and were renowned, they too wanted fame and fortune. "
+          "text": "9 If the map is not intended for a drive through the countryside or locating a particular city what is it's use? At this time in history Oklahoma was wanting to be placed on a map. To be KNOWN! All around them other cities and states had longer and were renowned, they too wanted fame and fortune. "
         }
       },
       {
         "source": "1",
         "extent": [
-          5434,
-          -4641,
-          7566,
-          -3015
+          5000,
+          -7200,
+          9000,
+          -5700
         ],
         "caption": {
-          "title": "What's the maps intention?",
-          "text": "Here we will divert our attention to classic uses of Feature Selection, Symbology, Text, Projection/Generalization, Color of this map to tease apart its nature as a persuasive and perhaps propoganda map."
+          "title": "Persuasion or Propaganda?",
+          "text": "10 Here we will divert our attention to classic uses of Feature Selection, Symbology, Text, Projection/Generalization, Color of this map to tease apart its nature as a persuasive and perhaps propoganda map."
         }
       },
       {
         "source": "1",
         "extent": [
-          5434,
-          -4641,
-          7566,
-          -3015
+          7200,
+          -7000,
+          8200,
+          -5100
         ],
         "caption": {
-          "title": "zoom to tulsa compass rose",
-          "text": " The author selects the feature of Tulsa for obivous reasons, as the primary location for the map, i.e. the meeting location. He uses symbology to give power to the only city on the map, marked with the compass Rose. The text of "All Roads Lead to Tulsa" was utilized for its importance during Tulsa's oil booms when "weak little provincial ancient Tulsa-had boomed into one of the richest cities in the world" (Anderson 2018). "
+          "text": " 11 The author selects the feature of Tulsa for obivous reasons, as the primary location for the map, i.e. the meeting location. He uses symbology to give power to the only city on the map, marked with the compass Rose. The text of -All Roads Lead to Tulsa- was utilized for its importance during Tulsa's oil booms when -weak little provincial ancient Tulsa-had boomed into one of the richest cities in the world- (Anderson 2018). "
         }
       },
       {
           "source": "1",
           "extent": [
-            5434,
-            -4641,
-            7566,
-            -3015
+            3700,
+            -7000,
+            4500,
+            -5100
           ],
           "caption": {
-            "title": "zoom to train and car on west",
-            "text": "Tyner (2015) warns that locations can be distorted 'to foster impressions of proximity, pervasiveness, or direct, efficient access.' This certainly seems to be the case as the standard rail and highway projections maps of the times aren't near as direct as the routes indicated on this map."
+            "text": "12 Tyner (2015) warns that locations can be distorted 'to foster impressions of proximity, pervasiveness, or direct, efficient access.' This certainly seems to be the case as the standard rail and highway projections maps of the times aren't near as direct as the routes indicated on this map."
           }
       },
       {
@@ -211,8 +216,7 @@
           ],
         "caption": {
           "title": "",
-          "text": "Then glance at the various names of persons of notariety from each state. Are there persons names who have been left off? We don't know. So a viewer would assume the name on the state, is the associated states powerful Realtor.
-          "
+          "text": "Then glance at the various names of persons of notariety from each state. Are there persons names who have been left off? We don't know. So a viewer would assume the name on the state, is the associated states powerful Realtor."
         }
      },
      {
@@ -251,7 +255,7 @@
       ],
     "caption": {
       "title": "",
-      "text": "Tyner's 1974 doctoral dissertation draws distinctions between propaganda maps and persuasive maps such that ropaganda maps had tendencies to deliberately distort and persuasion maps implied appeals based on logic. To that end, and based on previous points, this map could be either. We don't fully know the author intended to distort and misrepresent since he was never a classicaly trained cartographer. However, the keys are certainly there for persuasiveness that Tulsa was the new hot thing in the Real Estate Business and should be kept in the foreground for NAREB. It also could be voiced that persuasive maps are only powerful when they reach a large audience. So if the only people viewing the map were at this meeting it may not have been that powerful to the country at large. However the board was making decsions for the future of real estate and therefore future urban development. As Tyner (2015) qouted Speier (1941) "maps are not confined to the representation of a given state of affairs. They can be drawn to symbolize changes, or as blueprints of the future..." It's possible this is the future Tulsa realtors envisioned."
+      "text": "Tyner's 1974 doctoral dissertation draws distinctions between propaganda maps and persuasive maps such that ropaganda maps had tendencies to deliberately distort and persuasion maps implied appeals based on logic. To that end, and based on previous points, this map could be either. We don't fully know the author intended to distort and misrepresent since he was never a classicaly trained cartographer. However, the keys are certainly there for persuasiveness that Tulsa was the new hot thing in the Real Estate Business and should be kept in the foreground for NAREB. It also could be voiced that persuasive maps are only powerful when they reach a large audience. So if the only people viewing the map were at this meeting it may not have been that powerful to the country at large. However the board was making decsions for the future of real estate and therefore future urban development. As Tyner (2015) qouted Speier (1941) -maps are not confined to the representation of a given state of affairs. They can be drawn to symbolize changes, or as blueprints of the future...- It's possible this is the future Tulsa realtors envisioned."
     }
   },
     {
