@@ -1,0 +1,78 @@
+{
+    "metadata": {
+      "author": "RC Ramsey",
+      "title": "NAREB through a Critical Cartographic Lens",
+      "subtitle": "An interactive tool to explore the 19th Annual Convention of the National Association of Real Estate Boards Map of 1926",
+      "publishedDate": "2021-12-13"
+    },
+    "sources": [
+      {
+        "id": "1",
+        "type": "iiifImage",
+        "imageEndpoint": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463831d/info.json",
+        "moreInfo": "https://iiif.digitalcommonwealth.org"
+      }    
+    ],
+    
+    
+    "scenes": [
+      {
+        "source": "1",
+        "extent": [
+            5000,
+            -9500,
+            9500,
+            1500
+        ],
+        "caption": {
+          "title": "A caption may have a title",
+          "text": "And descriptive text telling the reader what we're looking at. This image is loaded from a IIIF Manifest, by passing the Manifest URL together with a sequence, canvas, and image indices."
+        }
+      },
+      {
+        "source": "1",
+        "extent": [
+          2395,
+          -3374,
+          4168,
+          -2155
+        ],
+        "caption": {
+          "title": "Taking a tour",
+          "text": "We can tour around the image by changing the extent that we want featured in the view."
+        }
+      },
+      {
+        "source": "1",
+        "caption": {
+          "text": "A caption doesn't need a title; only the text is required. **Markdown** _is also_ supported, and we can [insert links](https://leventhalmap.org)"
+        }
+      },
+      {
+        "source": "1",
+        "extent": [
+          5434,
+          -4641,
+          7566,
+          -3015
+        ],
+        "caption": {
+          "title": "Jumping to a new image in the same Manifest",
+          "text": "Now we've jumped over to another image from the same Manifest."
+        }
+      },
+      {
+        "source": "1",
+        "extent": [
+          50,
+          -1300,
+          1200,
+          -800
+        ],
+        "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:6969z354f",
+        "caption": {
+          "text": "And now we're panning around that image. You can pan around as much as you like, at any zoom level."
+        }
+      }
+    ]
+  }
