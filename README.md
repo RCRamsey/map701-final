@@ -23,7 +23,7 @@ Tyner, Judith. 2015. “Persuasive Cartography,” in Mark Monmonier, ed., The H
 
 Wood, Denis. 1993. What makes a map a map? Cartographica 30, no. 2. pp. 81-86 
 
-Final Site: 
+Final Site: https://rcramsey.github.io/map701-final-exploring-nareb/
 
 
 
